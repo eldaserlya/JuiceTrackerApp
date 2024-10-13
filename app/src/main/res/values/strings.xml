@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Juice Tracker</string>
+    <string name="delete">Hapus</string>
+    <string name="juice_name">Nama Jus</string>
+    <string name="juice_description">Deskripsi</string>
+    <string name="save">Simpan</string>
+    <string name="rating">Rating</string>
+    <string name="color">Warna</string>
+    <string name="add_juice">Tambah Jus</string>
+    <string name="bottom_sheet_headline">Jenis Jus</string>
+    <string name="juice_color">%s juice</string>
+    <plurals name="number_of_stars">
+        <item quantity="one">%d star</item>
+        <item quantity="other">%d stars</item>
+    </plurals>
+
+    <string name="red">Merah</string>
+    <string name="blue">Biru</string>
+    <string name="green">Hijau</string>
+    <string name="cyan">Cyan</string>
+    <string name="yellow">Kuning</string>
+    <string name="magenta">Magenta</string>
+    <string name="orange">Oren</string>
+</resources>
